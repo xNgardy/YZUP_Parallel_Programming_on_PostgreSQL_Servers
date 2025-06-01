@@ -1,0 +1,30 @@
+[
+  {
+    "server": "Server_B",
+    "query": "Belirli bir kullaniciyi id ile getirme",
+    "execution_time": 0.006318444000498857,
+    "row_count": 1,
+    "timestamp": "2025-05-25T01:44:32.444524"
+  },
+  {
+    "server": "Server_B",
+    "query": "Belirli bir eposta ile arama",
+    "execution_time": 0.8525939890005247,
+    "row_count": 0,
+    "timestamp": "2025-05-25T01:44:33.304434"
+  },
+  {
+    "server": "Server_B",
+    "query": "dogum_tarihi araliginda filtreleme",
+    "execution_time": 0.01714531299967348,
+    "row_count": 5000,
+    "timestamp": "2025-05-25T01:44:33.328688"
+  },
+  {
+    "server": "Server_B",
+    "query": "surname'e gore gruplama ve siralama",
+    "execution_time": 0.47705494799993176,
+    "row_count": 60,
+    "timestamp": "2025-05-25T01:44:33.812505"
+  }
+]
